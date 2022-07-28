@@ -12,9 +12,6 @@ body{
 .carousel-caption{
     bottom: 15%;
 }
-.bolder h2{
-    font-weight: 600;
-}
 
 @media only screen and (max-width:576px){
     .imageresize {
