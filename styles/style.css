@@ -1,0 +1,9 @@
+.brightness{
+    filter: brightness(50%);
+}
+
+@media only screen and (max-width:576px){
+    .imageresize {
+        height: 600px;
+    }
+}
