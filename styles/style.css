@@ -9,6 +9,11 @@ body{
 .brightness{
     filter: brightness(50%);
 }
+/* .carousel-caption {
+    position:relative;
+    left: 0;
+    top: 0;
+} */
 
 @media only screen and (max-width:576px){
     .imageresize {
